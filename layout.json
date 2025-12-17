@@ -1,0 +1,278 @@
+﻿{
+    "SchemaVersion":  1,
+    "CanvasSize":  {
+                       "W":  1200,
+                       "H":  800
+                   },
+    "Children":  [
+                     {
+                         "Type":  "Panel",
+                         "Name":  "",
+                         "Text":  "",
+                         "Bounds":  {
+                                        "X":  100,
+                                        "Y":  255,
+                                        "W":  260,
+                                        "H":  25
+                                    },
+                         "Dock":  "None",
+                         "Anchor":  [
+                                        "Top",
+                                        "Left"
+                                    ],
+                         "Padding":  {
+                                         "L":  0,
+                                         "T":  0,
+                                         "R":  0,
+                                         "B":  0
+                                     },
+                         "Font":  {
+                                      "Name":  "Microsoft Sans Serif",
+                                      "Size":  8.25,
+                                      "Style":  "Regular"
+                                  },
+                         "Children":  [
+                                          {
+                                              "Type":  "Panel",
+                                              "Name":  "",
+                                              "Text":  "",
+                                              "Bounds":  {
+                                                             "X":  -4,
+                                                             "Y":  -4,
+                                                             "W":  8,
+                                                             "H":  8
+                                                         },
+                                              "Dock":  "None",
+                                              "Anchor":  [
+                                                             "Top",
+                                                             "Left"
+                                                         ],
+                                              "Padding":  {
+                                                              "L":  0,
+                                                              "T":  0,
+                                                              "R":  0,
+                                                              "B":  0
+                                                          },
+                                              "Font":  {
+                                                           "Name":  "Microsoft Sans Serif",
+                                                           "Size":  8.25,
+                                                           "Style":  "Regular"
+                                                       },
+                                              "Children":  [
+
+                                                           ]
+                                          },
+                                          {
+                                              "Type":  "Panel",
+                                              "Name":  "",
+                                              "Text":  "",
+                                              "Bounds":  {
+                                                             "X":  256,
+                                                             "Y":  -4,
+                                                             "W":  8,
+                                                             "H":  8
+                                                         },
+                                              "Dock":  "None",
+                                              "Anchor":  [
+                                                             "Top",
+                                                             "Left"
+                                                         ],
+                                              "Padding":  {
+                                                              "L":  0,
+                                                              "T":  0,
+                                                              "R":  0,
+                                                              "B":  0
+                                                          },
+                                              "Font":  {
+                                                           "Name":  "Microsoft Sans Serif",
+                                                           "Size":  8.25,
+                                                           "Style":  "Regular"
+                                                       },
+                                              "Children":  [
+
+                                                           ]
+                                          },
+                                          {
+                                              "Type":  "Panel",
+                                              "Name":  "",
+                                              "Text":  "",
+                                              "Bounds":  {
+                                                             "X":  256,
+                                                             "Y":  21,
+                                                             "W":  8,
+                                                             "H":  8
+                                                         },
+                                              "Dock":  "None",
+                                              "Anchor":  [
+                                                             "Top",
+                                                             "Left"
+                                                         ],
+                                              "Padding":  {
+                                                              "L":  0,
+                                                              "T":  0,
+                                                              "R":  0,
+                                                              "B":  0
+                                                          },
+                                              "Font":  {
+                                                           "Name":  "Microsoft Sans Serif",
+                                                           "Size":  8.25,
+                                                           "Style":  "Regular"
+                                                       },
+                                              "Children":  [
+
+                                                           ]
+                                          },
+                                          {
+                                              "Type":  "Panel",
+                                              "Name":  "",
+                                              "Text":  "",
+                                              "Bounds":  {
+                                                             "X":  -4,
+                                                             "Y":  21,
+                                                             "W":  8,
+                                                             "H":  8
+                                                         },
+                                              "Dock":  "None",
+                                              "Anchor":  [
+                                                             "Top",
+                                                             "Left"
+                                                         ],
+                                              "Padding":  {
+                                                              "L":  0,
+                                                              "T":  0,
+                                                              "R":  0,
+                                                              "B":  0
+                                                          },
+                                              "Font":  {
+                                                           "Name":  "Microsoft Sans Serif",
+                                                           "Size":  8.25,
+                                                           "Style":  "Regular"
+                                                       },
+                                              "Children":  [
+
+                                                           ]
+                                          }
+                                      ]
+                     },
+                     {
+                         "Type":  "Panel",
+                         "Name":  "",
+                         "Text":  "",
+                         "Bounds":  {
+                                        "X":  190,
+                                        "Y":  95,
+                                        "W":  220,
+                                        "H":  26
+                                    },
+                         "Dock":  "None",
+                         "Anchor":  [
+                                        "Top",
+                                        "Left"
+                                    ],
+                         "Padding":  {
+                                         "L":  0,
+                                         "T":  0,
+                                         "R":  0,
+                                         "B":  0
+                                     },
+                         "Font":  {
+                                      "Name":  "Segoe UI",
+                                      "Size":  10,
+                                      "Style":  "Regular"
+                                  },
+                         "Children":  [
+
+                                      ]
+                     },
+                     {
+                         "Type":  "Label",
+                         "Name":  "label191cac",
+                         "Text":  "label191cac",
+                         "Bounds":  {
+                                        "X":  314,
+                                        "Y":  44,
+                                        "W":  220,
+                                        "H":  26
+                                    },
+                         "Dock":  "None",
+                         "Anchor":  [
+                                        "Top",
+                                        "Left"
+                                    ],
+                         "Padding":  {
+                                         "L":  0,
+                                         "T":  0,
+                                         "R":  0,
+                                         "B":  0
+                                     },
+                         "Font":  {
+                                      "Name":  "Segoe UI",
+                                      "Size":  10,
+                                      "Style":  "Regular"
+                                  },
+                         "Children":  [
+
+                                      ]
+                     },
+                     {
+                         "Type":  "TextBox",
+                         "Name":  "textboxfe6646",
+                         "Text":  "textboxfe6646",
+                         "Bounds":  {
+                                        "X":  100,
+                                        "Y":  255,
+                                        "W":  260,
+                                        "H":  25
+                                    },
+                         "Dock":  "None",
+                         "Anchor":  [
+                                        "Top",
+                                        "Left"
+                                    ],
+                         "Padding":  {
+                                         "L":  0,
+                                         "T":  0,
+                                         "R":  0,
+                                         "B":  0
+                                     },
+                         "Font":  {
+                                      "Name":  "Segoe UI",
+                                      "Size":  10,
+                                      "Style":  "Regular"
+                                  },
+                         "Children":  [
+
+                                      ]
+                     },
+                     {
+                         "Type":  "ComboBox",
+                         "Name":  "combobox0bc1f5",
+                         "Text":  "Option 1",
+                         "Bounds":  {
+                                        "X":  73,
+                                        "Y":  163,
+                                        "W":  220,
+                                        "H":  25
+                                    },
+                         "Dock":  "None",
+                         "Anchor":  [
+                                        "Top",
+                                        "Left"
+                                    ],
+                         "Padding":  {
+                                         "L":  0,
+                                         "T":  0,
+                                         "R":  0,
+                                         "B":  0
+                                     },
+                         "Font":  {
+                                      "Name":  "Segoe UI",
+                                      "Size":  10,
+                                      "Style":  "Regular"
+                                  },
+                         "Children":  [
+
+                                      ]
+                     }
+                 ]
+}
